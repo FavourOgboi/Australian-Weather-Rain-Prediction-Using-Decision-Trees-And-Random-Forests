@@ -1,6 +1,11 @@
-# Australian Weather Rain Prediction Using Decision Trees and Random Forests
-![Weather Image]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_eE3kDp02fYn_fuwXavHzU6XRIeTyoq-yewZ3kse1uuVz6jCwbuez9iLzzeibzGLQec&usqp=CAU")
+<div align="center">
+  <h1 style="font-size: 3em;">Australian Weather Rain Prediction</h1>
+  <h3>Using Decision Trees and Random Forests</h3>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_eE3kDp02fYn_fuwXavHzU6XRIeTyoq-yewZ3kse1uuVz6jCwbuez9iLzzeibzGLQec&usqp=CAU" alt="Weather Image" width="500">
+</div>
+
 ---
+
 ## Overview
 This project aims to predict whether it will rain tomorrow in various locations across Australia using weather data from the past decade. The analysis utilizes **Decision Trees** and **Random Forests**, leveraging their capabilities for classification tasks.
 
